@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner; // Importing Scanner Class
 
-public class Simple_CBSE_Percentage_Calculator {
+public class Ch01_04_Simple_CBSE_Percentage_Calculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

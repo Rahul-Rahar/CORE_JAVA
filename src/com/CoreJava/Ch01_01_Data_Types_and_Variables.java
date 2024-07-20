@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Data_Types_and_Variables {
+public class Ch01_01_Data_Types_and_Variables {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub\

@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner;
 
-public class PracticeCh1_06_03_Sum {
+public class PracticeCh1_05_03_Sum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

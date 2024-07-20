@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner;
 
-public class PracticeCh1_06_01_CGPA_Calculator {
+public class PracticeCh1_02_01_CGPA_Calculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

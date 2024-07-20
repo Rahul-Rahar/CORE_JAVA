@@ -2,7 +2,7 @@ package com.CoreJava;
 
 import java.util.Scanner; // Importing Scanner class for User Input
 
-public class Taking_User_Input {
+public class Ch01_03_Taking_User_Input {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

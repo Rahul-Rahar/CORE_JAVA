@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Literals {
+public class Ch01_02_Literals {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
