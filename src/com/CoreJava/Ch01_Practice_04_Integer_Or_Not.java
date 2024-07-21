@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner;
 
-public class PracticeCh1_05_04_Integer_Or_Not {
+public class Ch01_Practice_04_Integer_Or_Not {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

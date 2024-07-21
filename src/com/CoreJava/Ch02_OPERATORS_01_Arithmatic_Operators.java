@@ -1,9 +1,11 @@
 package com.CoreJava;
 
-public class OPERATORS_07_01_Arithmatic_Operators {
+public class Ch02_OPERATORS_01_Arithmatic_Operators {
 
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
+			
+			// OPERATORS :- Operators are used to perform Operations on Variables and Values.
 
 			
 			/* ARITHMATIC OPERATORS :-

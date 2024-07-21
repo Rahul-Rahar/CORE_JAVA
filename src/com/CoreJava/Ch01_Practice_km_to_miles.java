@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner;
 
-public class PracticeCh1_05_05_km_to_miles {
+public class Ch01_Practice_km_to_miles {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

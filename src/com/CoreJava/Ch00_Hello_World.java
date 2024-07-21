@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Hello_World {
+public class Ch00_Hello_World {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
