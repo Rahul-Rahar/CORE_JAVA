@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Ch03_Practice_Strings {
+public class Ch03_Practice_Set_Strings {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
