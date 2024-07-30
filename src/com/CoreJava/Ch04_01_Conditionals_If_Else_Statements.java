@@ -115,7 +115,21 @@ public class Ch04_01_Conditionals_If_Else_Statements {
 		
 		
 		
-		
+		// 4. ORDERING MEAL IF OUR FAVOURITE ALOO BHINDI LISTED ON MENU
+				Scanner sc4 = new Scanner(System.in);
+				
+				System.out.println("What is in the Menu Today?");
+				String Menu = sc4.nextLine();
+				
+				String favourite_meal = "Aloo Bhindi";
+				
+				if (Menu.equalsIgnoreCase(favourite_meal)) {
+					System.out.println("Order my Meal now!");
+				}
+				
+				else {
+					System.out.println("No, I don't wanna Order anything.");
+				}
 		
 		
 		
