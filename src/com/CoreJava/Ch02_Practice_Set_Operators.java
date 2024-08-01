@@ -1,6 +1,6 @@
 package com.CoreJava;
 import java.util.Scanner;
-public class Ch02_Practice_Set {
+public class Ch02_Practice_Set_Operators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
