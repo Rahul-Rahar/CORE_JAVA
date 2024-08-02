@@ -1,6 +1,6 @@
 package com.CoreJava;
 
-public class Ch04_Practice_Conditionals_04 {
+public class Ch04_Practice_Conditionals_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
