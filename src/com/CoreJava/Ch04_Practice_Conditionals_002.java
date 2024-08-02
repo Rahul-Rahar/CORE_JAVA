@@ -1,7 +1,7 @@
 package com.CoreJava;
 import java.util.Scanner; // Import Scanner for user input
 
-public class Ch04_Practice_Conditionals_01 {
+public class Ch04_Practice_Conditionals_002 {
 
     public static void main(String[] args) {
         /* Program to determine if a student passes or fails based on marks.
